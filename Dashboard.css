@@ -1,0 +1,22 @@
+
+        .glass-card {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(226, 232, 240, 0.8);
+        }
+        .ai-gradient-text {
+            background: linear-gradient(135deg, #004ac6, #006b5f);
+           -webkit-background-clip: text;
+            background-clip: text;
+           -webkit-text-fill-color: transparent;
+           color: transparent;
+        }
+        .ai-action-gradient {
+            background: linear-gradient(135deg, #2563eb, #4fdbc8);
+        }
+        body {
+            background-color: #f8f9ff;
+            color: #0b1c30;
+            overflow-x: hidden;
+        }
+    

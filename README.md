@@ -2,4 +2,4 @@
 
 # live preview 
 
-(https://m-ilyas-collab.github.io/New-Ai-Dermatologist/)
+ https://m-ilyas-collab.github.io/New-Ai-Dermatologist/
